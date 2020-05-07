@@ -27,3 +27,8 @@ Learning React and ES6 by building a Movie Discovery App.
 - [ ] Collections Link
 - [ ] /collections Route
 - [ ] On TV Show, show seasons and creators
+
+# Preview:
+
+Try it on [netlify](https://agitated-curie-5e375f.netlify.com)
+Try it on [github](https://youyou4832.github.io/nomflix)
